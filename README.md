@@ -29,7 +29,7 @@ A simple Go tool that scans `.txt` files in a folder, extracts all **email addre
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/emaildup.git
+git clone https://github.com/moonduck33/emaildup.git
 cd emaildup
 
 # Initialize Go module
